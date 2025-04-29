@@ -1,0 +1,109 @@
+Independent Variables,Values,Severity,Count,Percentage (%)
+day_of_week,1 (Sunday),Fatal,155,0.22
+day_of_week,1 (Sunday),Serious,2049,2.97
+day_of_week,1 (Sunday),Slight,5597,8.12
+day_of_week,2 (Monday),Fatal,178,0.26
+day_of_week,2 (Monday),Serious,2201,3.19
+day_of_week,2 (Monday),Slight,7107,10.31
+day_of_week,3 (Tuesday),Fatal,135,0.2
+day_of_week,3 (Tuesday),Serious,2289,3.32
+day_of_week,3 (Tuesday),Slight,7757,11.25
+day_of_week,4 (Wednesday),Fatal,148,0.21
+day_of_week,4 (Wednesday),Serious,2488,3.61
+day_of_week,4 (Wednesday),Slight,7707,11.18
+day_of_week,5 (Thursday),Fatal,165,0.24
+day_of_week,5 (Thursday),Serious,2404,3.49
+day_of_week,5 (Thursday),Slight,7843,11.38
+day_of_week,6 (Friday),Fatal,200,0.29
+day_of_week,6 (Friday),Serious,2681,3.89
+day_of_week,6 (Friday),Slight,8361,12.13
+day_of_week,7 (Saturday),Fatal,173,0.25
+day_of_week,7 (Saturday),Serious,2442,3.54
+day_of_week,7 (Saturday),Slight,6865,9.96
+junction_detail,0 (Not at junction or within 20 metres),Fatal,766,1.11
+junction_detail,0 (Not at junction or within 20 metres),Serious,7999,11.6
+junction_detail,0 (Not at junction or within 20 metres),Slight,21366,30.99
+junction_detail,1 (Roundabout),Fatal,37,0.05
+junction_detail,1 (Roundabout),Serious,926,1.34
+junction_detail,1 (Roundabout),Slight,4575,6.64
+junction_detail,2 (Mini-roundabout),Fatal,3,0.0
+junction_detail,2 (Mini-roundabout),Serious,234,0.34
+junction_detail,2 (Mini-roundabout),Slight,986,1.43
+junction_detail,3 (T or staggered junction),Fatal,236,0.34
+junction_detail,3 (T or staggered junction),Serious,4881,7.08
+junction_detail,3 (T or staggered junction),Slight,15798,22.91
+junction_detail,5 (Crossroads),Fatal,24,0.03
+junction_detail,5 (Crossroads),Serious,188,0.27
+junction_detail,5 (Crossroads),Slight,686,0.99
+junction_detail,6 (More than 4 arms (not roundabout)),Fatal,58,0.08
+junction_detail,6 (More than 4 arms (not roundabout)),Serious,1619,2.35
+junction_detail,6 (More than 4 arms (not roundabout)),Slight,5471,7.94
+junction_detail,7 (Private drive or entrance),Fatal,8,0.01
+junction_detail,7 (Private drive or entrance),Serious,280,0.41
+junction_detail,7 (Private drive or entrance),Slight,954,1.38
+junction_detail,8 (Other junction),Fatal,22,0.03
+junction_detail,8 (Other junction),Serious,427,0.62
+junction_detail,8 (Other junction),Slight,1401,2.03
+road_surface_conditions,1 (Dry),Fatal,783,1.14
+road_surface_conditions,1 (Dry),Serious,11778,17.08
+road_surface_conditions,1 (Dry),Slight,36640,53.14
+road_surface_conditions,2 (Wet or damp),Fatal,357,0.52
+road_surface_conditions,2 (Wet or damp),Serious,4503,6.53
+road_surface_conditions,2 (Wet or damp),Slight,13749,19.94
+road_surface_conditions,3 (Snow),Fatal,2,0.0
+road_surface_conditions,3 (Snow),Serious,46,0.07
+road_surface_conditions,3 (Snow),Slight,127,0.18
+road_surface_conditions,4 (Frost or ice),Fatal,7,0.01
+road_surface_conditions,4 (Frost or ice),Serious,186,0.27
+road_surface_conditions,4 (Frost or ice),Slight,631,0.92
+road_surface_conditions,5 (Flood over 3cm deep),Fatal,5,0.01
+road_surface_conditions,5 (Flood over 3cm deep),Serious,41,0.06
+road_surface_conditions,5 (Flood over 3cm deep),Slight,90,0.13
+road_type,1 (Roundabout),Fatal,25,0.04
+road_type,1 (Roundabout),Serious,745,1.08
+road_type,1 (Roundabout),Slight,3540,5.13
+road_type,2 (One way street),Fatal,7,0.01
+road_type,2 (One way street),Serious,265,0.38
+road_type,2 (One way street),Slight,1122,1.63
+road_type,3 (Dual carriageway),Fatal,253,0.37
+road_type,3 (Dual carriageway),Serious,2408,3.49
+road_type,3 (Dual carriageway),Slight,8452,12.26
+road_type,6 (Single carriageway),Fatal,854,1.24
+road_type,6 (Single carriageway),Serious,12903,18.71
+road_type,6 (Single carriageway),Slight,37120,53.84
+road_type,7 (Slip road),Fatal,15,0.02
+road_type,7 (Slip road),Serious,233,0.34
+road_type,7 (Slip road),Slight,1003,1.45
+sex_of_driver,1 (Male),Fatal,972,1.41
+sex_of_driver,1 (Male),Serious,12428,18.03
+sex_of_driver,1 (Male),Slight,35712,51.8
+sex_of_driver,2 (Female),Fatal,182,0.26
+sex_of_driver,2 (Female),Serious,4126,5.98
+sex_of_driver,2 (Female),Slight,15525,22.52
+urban_or_rural_area,1 (Urban),Fatal,444,0.64
+urban_or_rural_area,1 (Urban),Serious,10164,14.74
+urban_or_rural_area,1 (Urban),Slight,34788,50.46
+urban_or_rural_area,2 (Rural),Fatal,710,1.03
+urban_or_rural_area,2 (Rural),Serious,6390,9.27
+urban_or_rural_area,2 (Rural),Slight,16449,23.86
+weather_conditions,1 (Fine no high winds),Fatal,955,1.39
+weather_conditions,1 (Fine no high winds),Serious,13848,20.09
+weather_conditions,1 (Fine no high winds),Slight,42867,62.18
+weather_conditions,2 (Raining no high winds),Fatal,145,0.21
+weather_conditions,2 (Raining no high winds),Serious,2174,3.15
+weather_conditions,2 (Raining no high winds),Slight,6821,9.89
+weather_conditions,3 (Snowing no high winds),Fatal,5,0.01
+weather_conditions,3 (Snowing no high winds),Serious,64,0.09
+weather_conditions,3 (Snowing no high winds),Slight,229,0.33
+weather_conditions,4 (Fine + high winds),Fatal,20,0.03
+weather_conditions,4 (Fine + high winds),Serious,186,0.27
+weather_conditions,4 (Fine + high winds),Slight,472,0.68
+weather_conditions,5 (Raining + high winds),Fatal,24,0.03
+weather_conditions,5 (Raining + high winds),Serious,226,0.33
+weather_conditions,5 (Raining + high winds),Slight,635,0.92
+weather_conditions,6 (Snowing + high winds),Fatal,0,0.0
+weather_conditions,6 (Snowing + high winds),Serious,9,0.01
+weather_conditions,6 (Snowing + high winds),Slight,26,0.04
+weather_conditions,7 (Fog or mist),Fatal,5,0.01
+weather_conditions,7 (Fog or mist),Serious,47,0.07
+weather_conditions,7 (Fog or mist),Slight,187,0.27
